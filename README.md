@@ -30,7 +30,9 @@ Copying
 Written by Tony DiCola for Adafruit Industries.
 MIT license, all text above must be included in any redistribution
 
+
 ### EDITED BY JEREMYSMAI
+-------
 Added fix to the Image.py example with more edits to come.
 
  |'' | 2019
