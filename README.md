@@ -34,7 +34,7 @@ MIT license, all text above must be included in any redistribution
 ### EDITED BY JEREMYSMAI
 -------
 Changes:
-* [ ] Added fix to the Image.py example with more edits to come.
-* [ ] 
+* [ ] Added fix to the Image.py example 
+* [ ] ... more edits to come ...
 
  |'' | 2019
